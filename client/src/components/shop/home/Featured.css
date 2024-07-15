@@ -1,0 +1,14 @@
+.featured__header__big {
+  font-size: 1.8rem;
+  font-weight: 500;
+  margin-top: 50px;
+
+}
+.featured__categories__header__line {
+  width: 200px;
+  height: 5px;
+  background-color: black;
+  align-self: center;
+  border-radius: 25px;
+  margin-bottom: 50px;
+}
